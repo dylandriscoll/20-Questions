@@ -1,8 +1,3 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Lab 6 20 Questions
-Date: 3/2/2023*/
-
 /*This class defines a QuestionNode object. It also has the methods
 to create a tree and the helper method for loading a text file. */
 
