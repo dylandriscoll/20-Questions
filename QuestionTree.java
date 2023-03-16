@@ -1,4 +1,3 @@
-
 /*This class represents a QuestionTree object for the game of 20
 questions. It has a default guess of "computer" and will add new
 questions and answers to the tree if it loses.*/
