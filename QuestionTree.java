@@ -1,7 +1,3 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Lab 6 20 Questions
-Date: 3/2/2023*/
 
 /*This class represents a QuestionTree object for the game of 20
 questions. It has a default guess of "computer" and will add new
