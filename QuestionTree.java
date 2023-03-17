@@ -16,9 +16,7 @@ public class QuestionTree {
       this.ui = ui; 
    }
    
-   /*This is my play method. I couldn't get it to work without
-   having a QuestionNode parameter so I am calling a private 
-   method from this method instead.*/
+   
    public void play() {
       playGame(root);
    }   
